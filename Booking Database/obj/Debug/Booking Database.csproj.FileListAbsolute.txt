@@ -1,0 +1,17 @@
+C:\Users\Süha\source\repos\Booking Database\Booking Database\bin\Debug\Booking Database.exe.config
+C:\Users\Süha\source\repos\Booking Database\Booking Database\bin\Debug\Booking Database.exe
+C:\Users\Süha\source\repos\Booking Database\Booking Database\bin\Debug\Booking Database.pdb
+C:\Users\Süha\source\repos\Booking Database\Booking Database\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Süha\source\repos\Booking Database\Booking Database\obj\Debug\Booking Database.csprojAssemblyReference.cache
+C:\Users\Süha\source\repos\Booking Database\Booking Database\obj\Debug\Booking_Database.Properties.Resources.resources
+C:\Users\Süha\source\repos\Booking Database\Booking Database\obj\Debug\Booking Database.csproj.GenerateResource.cache
+C:\Users\Süha\source\repos\Booking Database\Booking Database\obj\Debug\Booking Database.csproj.CoreCompileInputs.cache
+C:\Users\Süha\source\repos\Booking Database\Booking Database\obj\Debug\Booking Database.csproj.CopyComplete
+C:\Users\Süha\source\repos\Booking Database\Booking Database\obj\Debug\Booking Database.exe
+C:\Users\Süha\source\repos\Booking Database\Booking Database\obj\Debug\Booking Database.pdb
+C:\Users\Süha\source\repos\Booking Database\Booking Database\obj\Debug\Booking_Database.login.resources
+C:\Users\Süha\source\repos\Booking Database\Booking Database\obj\Debug\Booking_Database.adminpanel.resources
+C:\Users\Süha\source\repos\Booking Database\Booking Database\obj\Debug\Booking_Database.userpanel.resources
+C:\Users\Süha\source\repos\Booking Database\Booking Database\obj\Debug\Booking_Database.signup.resources
+C:\Users\Süha\source\repos\Booking Database\Booking Database\obj\Debug\Booking_Database.addticket.resources
+C:\Users\Süha\source\repos\Booking Database\Booking Database\obj\Debug\Booking_Database.managepass.resources
