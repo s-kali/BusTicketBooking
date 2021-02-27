@@ -32,4 +32,5 @@ Passenger_id üzerinden güncelleme/silme işleminin yapılabileceği bölümdü
 Kullanıcı Arayüzü:
 Kullanıcının yolcu bilgilerini girip, tarih ve yolculuk bilgileri üzerinden bilet koşullarını görüntüleyip
 alabildiği arayüzdür.
+
 ![resim](https://user-images.githubusercontent.com/79456608/108721509-1f123180-7533-11eb-9145-ece1b96da6ce.png)
